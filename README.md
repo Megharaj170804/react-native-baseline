@@ -99,3 +99,8 @@ react-native-baseline/
 4. Push to your fork (`git push origin feature/my-feature`)
 5. Create a Pull Request
 
+# Output
+
+
+https://github.com/user-attachments/assets/d50cfce3-08ee-4a57-853a-2422d5345f4a
+
