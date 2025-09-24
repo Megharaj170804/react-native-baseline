@@ -8,8 +8,12 @@ A starter/template React Native app built with Expo and TypeScript.
 You can download the app build here:
 
 - Expo build (iOS / Android): [Download Build](https://expo.dev/accounts/megharaj2004/projects/baseline-reactnative/builds/0eff51f8-c0da-4928-a93b-1db24004d6bb) :contentReference[oaicite:0]{index=0}
+# Output
 
-> ⚠️ Note: You may need to open it via Expo Go or install it depending on platform restrictions.
+https://github.com/user-attachments/assets/5b644c89-852b-40a9-abe0-6d93c653e19a
+
+
+
 
 ## 🧱 Project Structure
 
@@ -97,10 +101,12 @@ react-native-baseline/
 2. Create a feature branch (`git checkout -b feature/my-feature`)
 3. Commit your changes (`git commit -m "Add my feature"`)
 4. Push to your fork (`git push origin feature/my-feature`)
+
+
+
 5. Create a Pull Request
 
 # Output
 
 
-https://github.com/user-attachments/assets/d50cfce3-08ee-4a57-853a-2422d5345f4a
 
